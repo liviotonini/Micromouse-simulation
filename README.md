@@ -12,14 +12,13 @@ Code explanation:
 that can be changed, such as if the simulation will be rendered or not, if you want verbose
 and debug to be outputed and if a sound beep should be played when robot reaches the goal.
 
--The rendered simulation can be closed by pressing the ESC key and can be paused py pressing
+-The rendered simulation can be closed by pressing the "ESC" key and can be paused py pressing
 the "p" key.
 
 -When testing the custom maze, the maze number 4, the "customMaze" variable must be set to True
 so that the program will know change the background image to that maze.
 
--The program will output a log file for the simulation that has to be in a folder named "logs"
-such as the one included in the zip file.
+-The program will output a log file for the simulation that has to be in a folder named "logs".
 
 -The images required for the simulation are included.
 
