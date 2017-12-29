@@ -1,0 +1,545 @@
+########################################################
+
+               Robot Maze Simulation Log            
+                     Livio Tonini
+
+########################################################
+
+
+TimeStep: 1
+Initial heading: North     Initial position: [1, 1]
+Sensors input - Left: 0, Forward: 11, Right: 0
+Backwards virtual sensor: 0
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [1, 2]
+
+
+TimeStep: 2
+Initial heading: North     Initial position: [1, 2]
+Sensors input - Left: 0, Forward: 10, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [1, 3]
+
+
+TimeStep: 3
+Initial heading: North     Initial position: [1, 3]
+Sensors input - Left: 0, Forward: 9, Right: 3
+Backwards virtual sensor: 2
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [2, 3]
+
+
+TimeStep: 4
+Initial heading: East     Initial position: [2, 3]
+Sensors input - Left: 0, Forward: 2, Right: 2
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [3, 3]
+
+
+TimeStep: 5
+Initial heading: East     Initial position: [3, 3]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [4, 3]
+
+
+TimeStep: 6
+Initial heading: East     Initial position: [4, 3]
+Sensors input - Left: 1, Forward: 0, Right: 1
+Backwards virtual sensor: 3
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [4, 4]
+
+
+TimeStep: 7
+Initial heading: North     Initial position: [4, 4]
+Sensors input - Left: 2, Forward: 0, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [3, 4]
+
+
+TimeStep: 8
+Initial heading: West     Initial position: [3, 4]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [2, 4]
+
+
+TimeStep: 9
+Initial heading: West     Initial position: [2, 4]
+Sensors input - Left: 0, Forward: 0, Right: 4
+Backwards virtual sensor: 2
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [2, 5]
+
+
+TimeStep: 10
+Initial heading: North     Initial position: [2, 5]
+Sensors input - Left: 0, Forward: 3, Right: 1
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [2, 6]
+
+
+TimeStep: 11
+Initial heading: North     Initial position: [2, 6]
+Sensors input - Left: 0, Forward: 2, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [2, 7]
+
+
+TimeStep: 12
+Initial heading: North     Initial position: [2, 7]
+Sensors input - Left: 1, Forward: 1, Right: 1
+Backwards virtual sensor: 3
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [3, 7]
+
+
+TimeStep: 13
+Initial heading: East     Initial position: [3, 7]
+Sensors input - Left: 1, Forward: 0, Right: 2
+Backwards virtual sensor: 2
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [3, 6]
+
+
+TimeStep: 14
+Initial heading: South     Initial position: [3, 6]
+Sensors input - Left: 1, Forward: 1, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [4, 6]
+
+
+TimeStep: 15
+Initial heading: East     Initial position: [4, 6]
+Sensors input - Left: 2, Forward: 0, Right: 1
+Backwards virtual sensor: 1
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [4, 7]
+
+
+TimeStep: 16
+Initial heading: North     Initial position: [4, 7]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [4, 8]
+
+
+TimeStep: 17
+Initial heading: North     Initial position: [4, 8]
+Sensors input - Left: 1, Forward: 0, Right: 0
+Backwards virtual sensor: 3
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [3, 8]
+
+
+TimeStep: 18
+Initial heading: West     Initial position: [3, 8]
+Sensors input - Left: 3, Forward: 0, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [3, 7]
+
+
+TimeStep: 19
+Initial heading: South     Initial position: [3, 7]
+Sensors input - Left: 0, Forward: 2, Right: 2
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: -1
+No collision. robot moves as intended.
+Final heading: South      Final position: [3, 8]
+
+
+TimeStep: 20
+Initial heading: South     Initial position: [3, 8]
+Sensors input - Left: 1, Forward: 3, Right: 0
+Backwards virtual sensor: 0
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [4, 8]
+
+
+TimeStep: 21
+Initial heading: East     Initial position: [4, 8]
+Sensors input - Left: 0, Forward: 0, Right: 3
+Backwards virtual sensor: 1
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [4, 7]
+
+
+TimeStep: 22
+Initial heading: South     Initial position: [4, 7]
+Sensors input - Left: 0, Forward: 2, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [4, 6]
+
+
+TimeStep: 23
+Initial heading: South     Initial position: [4, 6]
+Sensors input - Left: 0, Forward: 1, Right: 1
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [4, 5]
+
+
+TimeStep: 24
+Initial heading: South     Initial position: [4, 5]
+Sensors input - Left: 3, Forward: 0, Right: 0
+Backwards virtual sensor: 3
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [5, 5]
+
+
+TimeStep: 25
+Initial heading: East     Initial position: [5, 5]
+Sensors input - Left: 5, Forward: 2, Right: 1
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [6, 5]
+
+
+TimeStep: 26
+Initial heading: East     Initial position: [6, 5]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [7, 5]
+
+
+TimeStep: 27
+Initial heading: East     Initial position: [7, 5]
+Sensors input - Left: 0, Forward: 0, Right: 1
+Backwards virtual sensor: 3
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [7, 4]
+
+
+TimeStep: 28
+Initial heading: South     Initial position: [7, 4]
+Sensors input - Left: 1, Forward: 0, Right: 2
+Backwards virtual sensor: 1
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [6, 4]
+
+
+TimeStep: 29
+Initial heading: West     Initial position: [6, 4]
+Sensors input - Left: 3, Forward: 1, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [6, 3]
+
+
+TimeStep: 30
+Initial heading: South     Initial position: [6, 3]
+Sensors input - Left: 1, Forward: 2, Right: 1
+Backwards virtual sensor: 1
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [7, 3]
+
+
+TimeStep: 31
+Initial heading: East     Initial position: [7, 3]
+Sensors input - Left: 0, Forward: 0, Right: 2
+Backwards virtual sensor: 2
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [7, 2]
+
+
+TimeStep: 32
+Initial heading: South     Initial position: [7, 2]
+Sensors input - Left: 1, Forward: 1, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [8, 2]
+
+
+TimeStep: 33
+Initial heading: East     Initial position: [8, 2]
+Sensors input - Left: 2, Forward: 0, Right: 1
+Backwards virtual sensor: 1
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [8, 3]
+
+
+TimeStep: 34
+Initial heading: North     Initial position: [8, 3]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [8, 4]
+
+
+TimeStep: 35
+Initial heading: North     Initial position: [8, 4]
+Sensors input - Left: 3, Forward: 0, Right: 0
+Backwards virtual sensor: 3
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [7, 4]
+
+
+TimeStep: 36
+Initial heading: West     Initial position: [7, 4]
+Sensors input - Left: 0, Forward: 2, Right: 1
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: -1
+No collision. robot moves as intended.
+Final heading: West      Final position: [8, 4]
+
+
+TimeStep: 37
+Initial heading: West     Initial position: [8, 4]
+Sensors input - Left: 3, Forward: 3, Right: 0
+Backwards virtual sensor: 0
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [8, 3]
+
+
+TimeStep: 38
+Initial heading: South     Initial position: [8, 3]
+Sensors input - Left: 0, Forward: 2, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [8, 2]
+
+
+TimeStep: 39
+Initial heading: South     Initial position: [8, 2]
+Sensors input - Left: 0, Forward: 1, Right: 1
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [8, 1]
+
+
+TimeStep: 40
+Initial heading: South     Initial position: [8, 1]
+Sensors input - Left: 4, Forward: 0, Right: 0
+Backwards virtual sensor: 3
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [9, 1]
+
+
+TimeStep: 41
+Initial heading: East     Initial position: [9, 1]
+Sensors input - Left: 1, Forward: 3, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [9, 2]
+
+
+******Deadend found on Timestep: 42******
+TimeStep: 42
+Initial heading: North     Initial position: [9, 2]
+Sensors input - Left: 0, Forward: 0, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: -1
+No collision. robot moves as intended.
+Final heading: North      Final position: [9, 1]
+
+
+TimeStep: 43
+Initial heading: North     Initial position: [9, 1]
+Sensors input - Left: 1, Forward: 1, Right: 3
+Backwards virtual sensor: 0
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [10, 1]
+
+
+TimeStep: 44
+Initial heading: East     Initial position: [10, 1]
+Sensors input - Left: 2, Forward: 2, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [10, 2]
+
+
+TimeStep: 45
+Initial heading: North     Initial position: [10, 2]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [10, 3]
+
+
+TimeStep: 46
+Initial heading: North     Initial position: [10, 3]
+Sensors input - Left: 0, Forward: 0, Right: 1
+Backwards virtual sensor: 2
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [11, 3]
+
+
+TimeStep: 47
+Initial heading: East     Initial position: [11, 3]
+Sensors input - Left: 0, Forward: 0, Right: 2
+Backwards virtual sensor: 1
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [11, 2]
+
+
+TimeStep: 48
+Initial heading: South     Initial position: [11, 2]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: South      Final position: [11, 1]
+
+
+TimeStep: 49
+Initial heading: South     Initial position: [11, 1]
+Sensors input - Left: 1, Forward: 0, Right: 3
+Backwards virtual sensor: 2
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: East      Final position: [12, 1]
+
+
+TimeStep: 50
+Initial heading: East     Initial position: [12, 1]
+Sensors input - Left: 7, Forward: 0, Right: 0
+Backwards virtual sensor: 4
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [12, 2]
+
+
+TimeStep: 51
+Initial heading: North     Initial position: [12, 2]
+Sensors input - Left: 0, Forward: 6, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [12, 3]
+
+
+TimeStep: 52
+Initial heading: North     Initial position: [12, 3]
+Sensors input - Left: 0, Forward: 5, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [12, 4]
+
+
+TimeStep: 53
+Initial heading: North     Initial position: [12, 4]
+Sensors input - Left: 3, Forward: 4, Right: 0
+Backwards virtual sensor: 3
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [11, 4]
+
+
+TimeStep: 54
+Initial heading: West     Initial position: [11, 4]
+Sensors input - Left: 0, Forward: 2, Right: 0
+Backwards virtual sensor: 1
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [10, 4]
+
+
+TimeStep: 55
+Initial heading: West     Initial position: [10, 4]
+Sensors input - Left: 0, Forward: 1, Right: 0
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [9, 4]
+
+
+TimeStep: 56
+Initial heading: West     Initial position: [9, 4]
+Sensors input - Left: 1, Forward: 0, Right: 5
+Backwards virtual sensor: 3
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [9, 5]
+
+
+TimeStep: 57
+Initial heading: North     Initial position: [9, 5]
+Sensors input - Left: 1, Forward: 4, Right: 1
+Backwards virtual sensor: 2
+Rotation chosen: 0, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [9, 6]
+
+
+TimeStep: 58
+Initial heading: North     Initial position: [9, 6]
+Sensors input - Left: 1, Forward: 3, Right: 0
+Backwards virtual sensor: 3
+Rotation chosen: -90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: West      Final position: [8, 6]
+
+
+TimeStep: 59
+Initial heading: West     Initial position: [8, 6]
+Sensors input - Left: 0, Forward: 0, Right: 2
+Backwards virtual sensor: 1
+Rotation chosen: 90, Movement chosen: 1
+No collision. robot moves as intended.
+Final heading: North      Final position: [8, 7]
+
+
+
+
+Goal was reached first at the time step 60
+
+The robot explored 34.72% of the maze.
